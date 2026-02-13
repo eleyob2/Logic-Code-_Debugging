@@ -12,7 +12,8 @@ else {
 }
 
 
-// Challenge 1b - Error Fixed: the messages in both console.log()s where swapped, now the correct message will be displayed based on the age condition.
+// Challenge 1b - Error Fixed: the messages in both console.log()s where swapped, 
+// now the correct message will be displayed based on the age condition.
 let age = 18;
 if (age >= 18) {
     console.log("You are eligible to vote.");  
@@ -45,7 +46,8 @@ while (i <= 5) {
     i++;
 }
 
-// Challenge 2c - Error Fixed: The loop was not running because the condition was incorrect. It should be i <= num2 instead of i < num2 to include the number 5 in the factorial calculation.
+// Challenge 2c - Error Fixed: The loop was not running because the condition was incorrect. 
+// It should be i <= num2 instead of i < num2 to include the number 5 in the factorial calculation.
 let num2 = 5;
 let factorial = 1;
 for (let i = 1; i <= num2; i++) { 

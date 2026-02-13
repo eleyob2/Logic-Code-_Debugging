@@ -29,7 +29,7 @@ for i in range(1, 11):
     print(i)
 
 
-# Challenge 2b - Error Fixed
+# Challenge 2b - Error Fixed, print statement added
 i = 1
 while i <= 5:   
     print(i)
